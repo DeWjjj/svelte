@@ -3,7 +3,7 @@ title: Basics
 ---
 
 Welcome to the Svelte tutorial. This will teach you everything you need to know to build fast, small web applications easily.
-
+欢迎来到Svelte新手教程，这个教程将会教会你关于如何快速简单地构建一个小型的网站应用的任何事情。
 You can also consult the [API docs](/docs) and the [examples](/examples), or — if you're impatient to start hacking on your machine locally — the [60-second quickstart](/docs#getting-started).
 
 
